@@ -1,6 +1,6 @@
 Dokumentasi Program
 
-Chat Apps Using Deffie-Helman Key Exchange Implementation
+<bold>Chat Apps Using Deffie-Helman Key Exchange Implementation</bold>
 
 Tools :
 - Atom with GNU C Compiler (IDE yang direkomendasikan)
