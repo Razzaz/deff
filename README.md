@@ -5,6 +5,7 @@ Dokumentasi Program
 Tools :
 - Atom with GNU C Compiler (IDE yang direkomendasikan)
   - https://www.youtube.com/watch?v=zaokK25DITo
+- Sistem Operasi Windows 7
   
 Persiapan Awal :
 - Download terlebih dahulu source code yang terdapat pada repository ini
