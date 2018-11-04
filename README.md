@@ -14,7 +14,10 @@ Persiapan Awal :
 - Buka folder tersebut menggunakan Atom
 
 
+
 Menjalankan Apps :
+- Pastikan terdapat koneksi antar dua komputer. Disini kami merekomendasikan untuk menggunakan LAN.
 - Buka file "firstMain.c" dan "secondMain.c"
-- Setelah keduanya terbuka
+- Setelah keduanya terbuka, jalankan kedua file C tersebut menggunakan Atom.
+- Ikuti perintah yang terdapat pada program
 
